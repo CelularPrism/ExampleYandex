@@ -1,3 +1,4 @@
+#Анаграммы
 import sys
 
 s1 = list(sys.stdin.readline().strip())
